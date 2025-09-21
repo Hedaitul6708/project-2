@@ -1,0 +1,302 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1250px;
+    margin: 0 auto;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1250px;
+    margin: 20px auto;
+}
+
+.menu ul {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    padding: 20px 0;
+    justify-content: center;
+}
+
+.menu a {
+    padding: 0 15px;
+    text-decoration: none;
+    color: #503217;
+    font-size: 20px;
+}
+
+.hero-text p {
+    text-align: center;
+}
+
+.logo {
+    display: flex;
+    gap: 10px;
+    padding: 20px 20px;
+    align-items: center;
+    font-size: 30px;
+}
+
+.hero-btn {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    align-items: center;
+    background-color: #503217;
+    gap: 5px;
+    border: none;
+    border-radius: 10px;
+}
+
+.Categories h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    font-size: 48px;
+    color: #503217;
+}
+
+.cta-card {
+    display: flex;
+    justify-content: space-between;
+}
+
+.services {
+    text-align: center;
+    border: 1px solid #d3d1d1;
+    padding: 15px;
+    width: 200px;
+    margin: 26px;
+    border-radius: 15px;
+}
+
+section.hero-card {
+    display:  flex;
+    justify-content: space-between;
+}
+
+.card {
+    display: flex;
+    padding: 30px;
+    gap: 20px;
+    border: 2px;
+    margin: 10px;
+}
+
+.cta-product {
+    display: flex;
+    justify-content: space-around;
+}
+
+.clients {
+    text-align: center;
+    margin: 70px;
+}
+
+
+.clients h1 {
+    margin-bottom: 20px;
+}
+
+.clients p {
+    background: rgba(169, 169, 169, 0.404);
+    padding: 30px;
+    font-size: 25px;
+}
+
+
+section.product {
+    text-align: center;
+}
+
+.cta-group {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding: 80px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.card {
+    position: relative;
+    background-color: #fff;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.cta-product {
+    position: relative;
+    width: 1250px;
+    margin: 60px auto;
+}
+
+.service {
+    position: relative;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.hero-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1250px;
+    margin: 30px auto;
+}
+
+.hero-text h4 {
+    font-size: 30px;
+    text-align: center;
+}
+
+section.Categories {
+    width: 1250px;
+    margin: 20px auto;
+}
+
+section.hero-card {
+    width: 1250px;
+    margin: 40px auto;
+}
+
+.card p {
+    font-size: 20px;
+}
+
+.card button {
+    padding: 10px;
+    font-size: 18px;
+    border: none;
+    border-radius: 10px;
+    background-color: #D3744A;
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+.hero-container h4 {
+    font-size: 70px;
+    color: #503217;
+}
+
+.hero-container p {
+    font-size: 20px;
+    color: #8F7D6A;
+    margin: 20px 0px;
+}
+
+.bag {
+    align-items: center;
+    display: flex;
+    padding-bottom: 5px;
+    width: 150px;
+    border-bottom: 2px solid #503217;
+    gap: 5px;
+}
+
+p.btn {
+    color: #fff;
+}
+
+.group {
+    display: flex;
+    gap: 10px;
+    align-items: center;}
+
+.group p {
+    text-align: left;
+}
+
+.group h3 {
+    text-align: left;
+}
+
+.service button {
+    display: flex;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    background-color: #D3744A;
+    color: white;
+    margin-bottom: 10px;
+}
+
+section.product h2 {
+    color: #503217;
+    font-size: 48px;
+}
+
+section.product h2 {
+    color: #503217;
+    font-size: 48px;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 20px;
+    width: 1250px;
+}
+
+ul li {
+    list-style: none;
+}
+
+li a {
+    text-decoration: none;
+    font-size: 20px;
+    color: #8F7D6A;
+}
+
+.footer-column h3 {
+    color: #503217;
+    margin: 10px 0;
+}
+
+.Medifit- {
+    text-align: center;
+}
+
+.address {
+    width: 200px;
+}
+
+.address p {
+    margin: 10px 0;
+    color: #8F7D6A;
+}
+
+.address h3 {
+    color: #503217;
+}
+
+.meta-line {
+    text-align: center;
+    font-size: 22px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+.meta-line a {
+    color: #503217;
+}
+
+.group h3 {
+    color: #503217;
+}
+
+.group p {
+    color: #8F7D6A;
+    font-size: 18px;
+}
