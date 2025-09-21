@@ -106,9 +106,13 @@ section.hero-card {
 }
 
 .clients p {
-    background: rgba(169, 169, 169, 0.404);
+    background: #F2F2F2;
     padding: 30px;
     font-size: 25px;
+    color: #8F7D6A;
+    border-radius: 20px;
+    background-image: url(fi_11029023.png);
+    background-repeat: no-repeat;
 }
 
 
@@ -263,6 +267,7 @@ li a {
     color: #503217;
     margin: 10px 0;
 }
+
 
 .Medifit- {
     text-align: center;
